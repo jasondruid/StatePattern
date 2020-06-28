@@ -1,6 +1,8 @@
 # statepattern
 
-A new Flutter project.
+Este proyecto implementa el Patrón de arquitectura de diseño State.
+
+El proyecto utiliza la clase FakeAPI poara simular un llamado al servidor.
 
 ## Getting Started
 
